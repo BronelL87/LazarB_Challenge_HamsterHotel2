@@ -8,6 +8,6 @@
 
 ### Peer Review
 
-**Reviewer**: 
+**Reviewer**: Chainarung Nathan Dechyothin  
 
-**Reviewer Notes**: 
+**Reviewer Notes**: The desktop version closely resembles the prototype, and the responsiveness is very well-executed. Both tablet and mobile views look smooth, making for a seamless experience across devices. The code is clean and easy to read, with most styling efficiently managed in CSS. Overall, this is a well-done project!
